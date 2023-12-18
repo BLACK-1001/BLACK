@@ -12,4 +12,5 @@ logo=(f"""\x1b[1;37m
  \033[1;31m[\033[1;37m+\033[1;31m] \033[1;37mService : \x1b[1;31mPAID\x1b[1;37m
  \033[1;31m[\033[1;37m+\033[1;31m] \033[1;37mVersion :\x1b[1;32m V?? 
  \033[1;37m══════════════\x1b[1;31m══════════\x1b[1;37m═════════════════""")
-print('\033[1;31m[\033[1;37m1\033[1;31m] \x1b[1;37mTOOL ITS STOPED FOR UPDATE') 
+print(logo) 
+print('\033[1;31m[\033[1;37m+\033[1;31m] \x1b[1;32mTOOL ITS STOPED FOR UPDATE 🖤') 
